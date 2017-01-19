@@ -28,4 +28,6 @@
   <plugin name="ionic-plugin-keyboard" spec="~2.2.1"/>
 
   <icon src="icon.png"/>
+  
+  <gap:splash src="splash.png" />
 </widget>
