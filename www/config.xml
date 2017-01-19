@@ -29,5 +29,5 @@
 
   <icon src="icon.png"/>
   
-  <gap:splash src="splash.png" />
+  <splash src="splash.png" />
 </widget>
